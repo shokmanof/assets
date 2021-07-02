@@ -1,0 +1,10 @@
+"name": "BAKT Token",
+    "website":"https:www.financespeedrocket.com/",
+    "description": "BAKT is a Ttoken issued by Bankuita team in partnership with Binance.",
+    "explorer": "https://bscscan.com/token/0x761FEFe50D1bcE214d5E92DA53f3FBB6eef99F25/",
+    "type": "BEP20",
+    "symbol": "BAKT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x761FEFe50D1bcE214d5E92DA53f3FBB6eef99F25"
+}
